@@ -2,13 +2,13 @@
 % Credits: Markus Haug and the template contributors.
 % Feel free to share and modify this template, but please give credit where it's due.
 
-\documentclass[11pt, a4paper, oneside, english]{article}
+\documentclass[11pt, a4paper, oneside, german]{article}
 
 
 %%
 %% Packages & Formatting
 %%
-\usepackage[english]{babel} % English language settings
+\usepackage[german]{babel} % German language settings
 \usepackage[hidelinks]{hyperref} % Hyperlinks without borders
 \usepackage{setspace} % Spacing between paragraphs
 \usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry} % Page margins
@@ -50,7 +50,7 @@
 %% PDF Metadata
 % TODO: Update this!
 \hypersetup{
- pdfauthor={Your Name},
+ pdfauthor={Joshua Riewesell}, %% Author of the PDF file
  pdftitle={My Title}, %% Title of the PDF file
   pdfsubject={Case Study - IU LaTeX Template},
  pdfkeywords={},
@@ -125,19 +125,19 @@
 
 \blankpage
 \phantomsection
-\addcontentsline{toc}{section}{List of Figures}
+\addcontentsline{toc}{section}{Abbildungsverzeichnis}
 \listoffigures % List of Figures
 
 
 
 % TODO: Check if needed
-%\blankpage
-%\listoftables % List of Tables
-%\addcontentsline{toc}{section}{List of Tables}
+\blankpage
+\listoftables % List of Tables
+\addcontentsline{toc}{section}{Tabellenverzeichnis}
 
 \blankpage
-\section*{Acronyms}
-\addcontentsline{toc}{section}{Acronyms}
+\section*{Abkürzungsverzeichnis}
+\addcontentsline{toc}{section}{Abkürzungsverzeichnis}
 
 % TODO: Check acronyms!
 \begin{acronym}
@@ -162,7 +162,7 @@
 
 \phantomsection
 % set bibliography name
-\renewcommand{\bibname}{References}
+\renewcommand{\bibname}{Literaturverzeichnis}
 \addcontentsline{toc}{section}{\bibname}
 % \nocite{*} % only include if also citing sources not referenced in the text
 
