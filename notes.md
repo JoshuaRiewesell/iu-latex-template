@@ -187,3 +187,122 @@
 - Clearingstelle Wohnen
 
 4 Ergebnisse der Online-Befragung
+
+## Studienergebnisse
+
+Online-Umfrage (qualitativ)
+
+- Bekanntheit (ET4), Nutzung, Versorgungslücken (ET6), Barrieren (ET5)
+
+Uni- und bivariante Analysen ergänzt mit Antworten aus offenen Fragen
+
+4.1 Lebenslagen und Soziodemografie der Befragten
+
+Zusammenhang finanzielle Situation und 1. Anzahl Elternteile, 2. Anzahl Personen 3. Arbeitslosigkeit 4. Sozialraum
+- Ein-Eltern-Haushalte bewerten ihre finanzielle Situation schlechter
+- in Nord mehr Armut
+Verteilung Sozialhilfen
+- Wohngeld am meisten
+Zusammenhang Sozialleistungen
+- mehr Kinder mehr Leistungsempfänger
+- mehr Ausländer
+- im Norden mehr Bezug
+- Alleinerziehnde eher Unterhaltsvorschuss und Wohngeld, Paar-Haushalte eher Bafög
+Altersverteilung
+Herkunft
+Wohndauer (49\% leben seit mindestens 10 Jahren dort)
+
+4.2 Deprivation (Teilhabesituation des Kindes)
+- "Trotz der vielfältigen Angebote, zeigt sich, dass viele Familien weiterhin mit Problemen in verschiedenen Lebensbereichen zu kämpfen haben."
+- 59\% haben mit min 1 große Probleme
+- 24\% haben mit min 3 große Probleme -> "materiell depriviert"
+- Indexwertevergleich
+- bivariant
+    Ein-Eltern-Haushalte deprivierter
+    Bei vielen Kindern deprivierter
+- Kinder aus 1EHs häufiger in Vereinen
+
+4.3 Hilfen und Unterstützungsangebote in Tübingen
+- 64\% KBC + Schwimmen für alle Kinder (aber besonders hier wurden Studi-TN geworben)
+- 19\% BuT
+- 11\% Kita Gebührenstaffelung
+- 10\% nicht viel / nichts wird getan
+Hürden (wo Daten?) (ET5)
+- Antragstellung kompliziert
+- Welche Anträge darf ich stellen? Wie gehe ich vor?
+Was fehlt? (ET6)
+- Wohnraum, (kostenfreie)(Sport)Angebote, Informationen, Geld
+ab hier qualitativ - offene Fragen
+- Wohnraum zu wenig, zu teuer und zu eng
+S. 79
+
+KI-Vorschlag: In einem eingeschränkten Sinne lässt sich hier von einer 
+within-instrument Triangulation sprechen: Innerhalb desselben 
+Fragebogens werden quantitative (geschlossene) und qualitative 
+(offene) Fragen kombiniert, um die Befunde methodisch zu ergänzen. 
+Eine vollständige Triangulation im Sinne unabhängiger Methoden 
+(vgl. Flick 2011) liegt jedoch nicht vor.
+
+- kinderreiche Familie hätten gerne mehr Angebotsförderung
+- Familien die kürzer in Tübingen leben, sehen höheren Bedarf -> Unbekanntheit?
+- ausländische Familien wollen mehr Sportangebote
+- Mangelnder Informationsfluss wird benannt (ET3)
+- Befragte geben Ideen z.B. die Verteilung von Flyern
+- Befragten fehlt eine Übersicht (Liste der Angebote)
+- Befragte bemängeln Unterlagen mehrfach bei unterschiedlichen Stellen einreichen zu müssen
+- Familien knapp über dem Bezug teilweise besonders betroffen
+- mehr Kita/Ganztagsbetreuung
+- Kritik: wer kein ALG2 bezieht, hat zwar genauso wenig Geld, erhält aber nicht die Zusatzleistungen wie die KBC -> stimmt nicht -> Informationsbedarf
+-- Fehleinschätzungen der Befragten können auf Unwissenheit und damit auf unzureichenden Informationszugang hindeuten! (ET3)
+
+Informationszugang/-quellen (ET3)
+- es wurde konkret gefragt, wie informiert sie sich fühlen
+- bedürftigere Gruppen tendenziell besser informiert
+- weniger informiert: Teilorte, nicht-deutsch, noch nicht lange in Tübingen
+- Bekanntheit haupsächlich durch Bekannte, Kitas und Schulen
+- weniger: Printmedien (außer gute finanz Situation) und Jobcenter (außer bei SGB2-Empfängern)
+- dt Staatsbürger werden eher über Bekannte informiert als Ausländer
+
+Informationsbedarf (ET6)
+- es fehlt besonders eine Übersicht (Liste)
+- es fehlt eine Art "best practice" was in welcher Reihenfolge zu tun ist
+- mehrsprachige Erklärvideos
+- Ämter identifiziert, welche die beliebtesten Anlaufstellen sind (ET3)
+-- das kann besonders relevant sein, den hier könnte man Infomaterial auslegen...
+
+KBC (ET1/ET3)
+- 68\% nutzen KBC (ET4)
+- Bekanntheit insgesamt bei 88\% - stark (aber Befragte kommen auch besonders aus dem KBC-Newsletter)
+- unbekannter bei Neuen und in Teilorten
+Probleme (ET5)
+- Bürokratischer Aufwand
+- ständig neu beantragen müssen, statt automatischer Verlängerung
+- bitte um Erinnerung vor Ablaufdatum
+- mehr Infos zu Gültigkeitsbereich und Nutzung gewünscht (ET3)
+- unbekannter Liste möglicher Vergünstigungen verringert Nutzung (ET1/2/3)
+
+Weitere Hilfen (ET1/ET3)
+- ermäßigte Tickets durch KBC, Schwimmen für Kinder, Sozialberatung
+- 75\% kennen EfA nicht (ET3)
+- die meisten Angebote mit Bekanntheit unter 50\% (ET3)
+- die meisten Angebote mit Nutzung unter 20\% (ET4)
+Probleme (ET5)
+- Informationsfluss (ET3)
+- Ausweitung der Hilfen (besonders schulische)
+- Bürokratie
+- weniger unterschieliche (Anlauf)Stellen bei denen beantragt werden muss, mehr Bündelung
+- Wiederbeantragung nervig
+- Wohnraum
+
+Gesetzliche Leistungen
+- Kita-Zuschuss, BuT und Wohngeld hohe Nutzung (ET4)
+- zwei unbekannte Angebote
+- Statistischer Abgleich zeigt Befragte verwechseln Angebote - Infodefizit (ET3)
+- wenn Bekanntheit hoch und Nutzung niedrig evtl Hürden groß (ET5)
+- Zuschüsse wachsen nicht mit den Kosten der Freizeitangebote (ET5)
+- Studienautoren beginnen Ideen zu äußern
+- nicht bei jedem Antrag wieder neu alles hochladen müssen
+- zentrale Anlaufstelle oder Vernetzung untereinadner
+
+Sonstiges
+- Scham, Stigmatisierung, Imagekampagne für die KBC gewünscht (ET5)
