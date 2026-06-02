@@ -190,7 +190,7 @@
 
 ## Studienergebnisse
 
-Online-Umfrage (qualitativ)
+Online-Umfrage (quantitativ)
 
 - Bekanntheit (ET4), Nutzung, Versorgungslücken (ET6), Barrieren (ET5)
 
@@ -306,3 +306,75 @@ Gesetzliche Leistungen
 
 Sonstiges
 - Scham, Stigmatisierung, Imagekampagne für die KBC gewünscht (ET5)
+
+### Qualitative Studienergebnisse
+
+- Wahrnehmung (ET1), Erfolge (ET2), positive Entwicklungen (ET1), Optimierung (ET5), Bedarfe (ET6)
+
+5.1 Erfolge (ET1/ET2)
+- schließt Lücken des bundesweiten BuT auf lokaler Ebene (sollte jede Stadt machen :)
+- Teilnehmende heben die Angebote in Tübingen gegenüber anderen Städten hervor
+- MA hebt hervor wie wertvoll die Förderung vieler Angebote pro Kind zur Teilhabe ist
+- wahrgenommener Perspektiv-Unterschied: TN ist egal von wo die Hilfe kommt, hauptsache sie kommt
+- KBC ermöglicht mehr Erkenntnisse über die finanzielle Situation von Familien ("Kinderarmut wurde sichtbarer")
+- KBC ermöglicht nicht nur eine finanzielle Unterstützung sondern die wichtige Teilhabe (insbesondere bezüglich Bildung)
+- Viele wiederholte KBC-Anträge zeigen: Familien kommen nicht aus der Armut
+- Freizeitangebote für Kinder & Jugendliche, Förderung von Mobilität, Lebensmittelversorgung
+- KBC insg. über 100 Angebote kostengünstiger oder kostenlos
+- laut MA hat die KBC ein gutes Image
+- KBC bietet Kontaktpunkt mit von Armut betroffenen/bedrohten Familien und ermöglichst so diesen weitere Empfehlungen auszusprechen
+- TAPs stabilisieren das Präventionskonzept und weiten es aus
+- über 200 TAPs
+- der Begriff "TAPs" scheint in Tübingen mittlerweile bekannt zu sein
+- steigert Armutssensibilität in den Institutionen
+- "das Tübinger Präventionskonzept kann aber nicht strukturelle Aspekte der schwierigen ökonomischen Lage von Familien mit wenig Geld ausgleichen"
+- hier fehlen Belege für die Argumente
+- TRIANGULATION: besonders Covid zeigte die schlechte technische Ausstattung der Familien zum Lernen und auch, dass es an Raum zum lernen fehlt
+
+5.2 Entwicklungsmöglichkeiten (ET5/ET6)
+- Kritik: erwerbstätige Familien können durch ihre Erwerbstätigkeit über die Bemessungsgreze fallen und dadurch ärmer dran sein, als jene ohne Erwerbstätigkeit, aber mit Transferleistungen
+- das befördert, dass Familien mit KBC nicht ihre Erwerbstätigkeit erhöhen wollen aus Angst ihren Kindern, dann keine Freizeitaktivitäten mehr leisten zu können (Verfestigung von Armutsstrukturen)
+- KBC extra soll dem entgegenwirken durch Ermessungsspielraum, aber scheinbar noch zu unbekannt
+- Konflikt zwischen Präzision und Einfachheit der Hilfen
+- TN fordert besonders die Folgekosten in Vereinen heraus (Instrument, Fußballschuhe,...)
+- Vereine entscheiden selbst, was sie vergünstigt anbieten (und zahlen dies auch selbst)
+- Arme Familien häufiger am Stadtrand -> größere Distanz zu den Angeboten
+- sehr explorativ in alle Richtungen (unberücksichtigte Gruppen, Kritik einzelner Angebote bzw. ihrem Fehlen)
+- zu wenig Angebote für besondere Gruppen wie Kinder mit Behinderung
+- Ausweitung auf jüngere und ältere gewünscht (aktuell hauptsächlich Grundschulkinder)
+- MA & TN fordern, dass Beratungs-, Betreeungs- und Freizeitanegbote und Schulbedarf günstiger oder kostenlos werden (puh)
+- Bezahlbarer Wohnraum, kostenloser ÖPNV,... gewünscht
+- Unverständnis wieso manche Angebote nicht vergünstigt werden
+- Bedarf an spontanen Angeboten ohne langfristige Voranmeldung
+- manche Angebote werden gemieden, durch ihre elitäre Wirkung
+- sowas sind Einblicke, die eine quantitative Erhebung niemlas hätte
+- schambehaftet
+- Erwartungen zB von Lehrkräften was man anschaffen sollte setzen die Familien unter Druck
+- keine öffentlichen Besprechung von Finanzen bei Schulausflug-Planung auf Elternabenden
+- Schulungen zur Sensibiliserung könnten helfen
+s127
+- über 200 TAPs
+- Mitarbeiterfluktuation bewirkt, dass TAPs gehen und neue ausgebildet werden müssen (ET6)
+- TAP-Schulung verbessern, indem TAPs selbst Anträge ausfüllen üben (ET6)
+- INET-Multiplikatoren haben selbst Migrationshintergund für Peer-to-Peer - das wird als hilfreich wahrgenommen, um die Hürden zu senken (ET2)
+- Adressaten erwarten die Leitung vom Staat statt, dass Ehrenamtliche sich engagieren müssen
+- Ehrenamt kann ein Mangel an Kontinuität und Kenntnissen bedeuten (ET5)
+- Eltern, die sich selbst ehrenamtlich engagieren, kritisieren die geringe monetäre Aufwandsentschädigung, die teilweise von Sozialleistungen abgezogen wird (ET5)
+s133
+- Das Aufeinandertreffen von Vetretern unterschiedlicher Institutionen zeigt, ob sie sich bereits kennen und damit auch, wie gut die Vernetzung ist undzwar weiterhin ausbaufähig (Vorteil QUAL) (ET6)
+- bitte der TN das KBC Label kenntlich zu machen, um nicht fragen zu müssen (ET5/ET6)
+- MA&TN fordern TN als "Experten" zu betrachten und ihren Forderungen nach Aufstockungen folge zu leisten
+- Fokusgruppen bewirken, dass TN sich gehört fühlen (Vorteil QUAL)
+- Zitate vermitteln zB Frustration (Vorteil QUAL)
+5.3
+- Informationsbedarf (ET3), Hürden (ET5), Bedarf (ET6)
+- Arme sind eine schwer-ereichbare Zielgruppe (lesen zB nicht Zeitung, Kinder nicht im Kindergarten,...) (ET4/ET5)
+- Informationen sind häufig unverständlich für Adressaten, mehr in leichter Sprache anbieten (ET3/ET5/ET6)
+- Schriftliche Informationen haben nur eine begrenzte Reichweite, weil Adressaten nicht lesen (können) (ET3/ET5)
+- Keywords mit denen nach weiteren Informationen gesucht werden könnte wie "KBC" sind selbst erst bekannt zu machen (ET3/ET6)
+- laut MA benötigt es erst, dass Vertrauen durch Gespräche aufgebaut wird, bevor TN auf Flyer oder Websites schauen (ET3/ET5)
+- mehrfache Beantragung und lange Bearbeitungszeit (ET5)
+- Lob für Einfachheit der KBC (ET2)
+- Anspruchsberechtigte vs Bittstellende, was ist die Selbstwahrnehmung
+
+- Suchmaschiene (TRIANGULATION) QUAL: Keywords unbekannt, QUAN: Häufigkeit hoch
